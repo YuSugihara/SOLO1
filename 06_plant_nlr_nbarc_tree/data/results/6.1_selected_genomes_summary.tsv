@@ -1,0 +1,23 @@
+assembly_accession	species	role	source_nlr_and_degenerate_count	excluded_non_nlr_count	retained_status_nlr_count	retained_nbarc_record_count	full_length_ids_without_nbarc
+GCF_002575655.2	Aegilops tauschii	ingroup	1109	55	1054	1129	0
+GCF_000005505.3	Brachypodium distachyon	ingroup	529	31	498	528	0
+GCF_904849725.1	Hordeum vulgare	ingroup	539	24	515	545	0
+GCF_019359855.1	Lolium perenne	ingroup	594	19	575	622	0
+GCF_022539505.1	Lolium rigidum	ingroup	669	29	640	682	0
+GCF_000231095.2	Oryza brachyantha	ingroup	322	37	285	290	0
+GCF_000147395.1	Oryza glaberrima	ingroup	674	43	631	641	0
+GCF_034140825.1	Oryza sativa	ingroup	775	59	716	725	0
+GCF_002211085.1	Panicum hallii	ingroup	552	29	523	552	0
+GCF_016808335.1	Panicum virgatum	ingroup	1307	111	1196	1248	0
+GCF_958298935.1	Phragmites australis	ingroup	612	48	564	600	0
+GCF_000263155.2	Setaria italica	ingroup	705	30	675	708	0
+GCF_000003195.3	Sorghum bicolor	ingroup	530	20	510	542	0
+GCF_018294505.1	Triticum aestivum	ingroup	3150	153	2997	3238	0
+GCF_002162155.2	Triticum dicoccoides	ingroup	1708	100	1608	1711	0
+GCF_003073215.2	Triticum urartu	ingroup	1077	59	1018	1057	0
+GCF_902167145.1	Zea mays	ingroup	319	7	312	381	0
+GCF_001540865.1	Ananas comosus	outgroup	320	15	305	313	0
+GCF_000442705.1	Elaeis guineensis	outgroup	257	24	233	233	0
+GCF_036884655.1	Musa acuminata AAA Group	outgroup	457	36	421	424	0
+GCF_009730915.1	Dioscorea cayenensis subsp. rotundata	outgroup	568	83	485	486	0
+GCF_001876935.1	Asparagus officinalis	outgroup	88	21	67	68	0

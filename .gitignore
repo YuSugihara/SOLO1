@@ -1,0 +1,33 @@
+# macOS and editor metadata
+.DS_Store
+._*
+.vscode/
+.idea/
+*.swp
+*~
+
+# Office temporary files
+~$*
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Transient workflow files
+work/
+tmp/
+scratch/
+*.fai
+*.gzi
+
+# Large structure prediction outputs (deposited separately)
+*.cif
+*.pdb

@@ -1,0 +1,23 @@
+assembly_accession	species	fasta_taxon_prefix	status_nlr_count	role	include
+GCF_002575655.2	Aegilops tauschii	Poales_Aegilops_tauschii_subsp._strangulata	1054	ingroup	yes
+GCF_000005505.3	Brachypodium distachyon	Poales_Brachypodium_distachyon	498	ingroup	yes
+GCF_904849725.1	Hordeum vulgare	Poales_Hordeum_vulgare_subsp._vulgare	515	ingroup	yes
+GCF_019359855.1	Lolium perenne	Poales_Lolium_perenne	575	ingroup	yes
+GCF_022539505.1	Lolium rigidum	Poales_Lolium_rigidum	640	ingroup	yes
+GCF_000231095.2	Oryza brachyantha	Poales_Oryza_brachyantha	285	ingroup	yes
+GCF_000147395.1	Oryza glaberrima	Poales_Oryza_glaberrima	631	ingroup	yes
+GCF_034140825.1	Oryza sativa	Poales_Oryza_sativa_Japonica_Group	716	ingroup	yes
+GCF_002211085.1	Panicum hallii	Poales_Panicum_hallii	523	ingroup	yes
+GCF_016808335.1	Panicum virgatum	Poales_Panicum_virgatum	1196	ingroup	yes
+GCF_958298935.1	Phragmites australis	Poales_Phragmites_australis	564	ingroup	yes
+GCF_000263155.2	Setaria italica	Poales_Setaria_italica	675	ingroup	yes
+GCF_000003195.3	Sorghum bicolor	Poales_Sorghum_bicolor	510	ingroup	yes
+GCF_018294505.1	Triticum aestivum	Poales_Triticum_aestivum	2997	ingroup	yes
+GCF_002162155.2	Triticum dicoccoides	Poales_Triticum_dicoccoides	1608	ingroup	yes
+GCF_003073215.2	Triticum urartu	Poales_Triticum_urartu	1018	ingroup	yes
+GCF_902167145.1	Zea mays	Poales_Zea_mays	312	ingroup	yes
+GCF_001540865.1	Ananas comosus	Poales_Ananas_comosus	305	outgroup	yes
+GCF_000442705.1	Elaeis guineensis	Arecales_Elaeis_guineensis	233	outgroup	yes
+GCF_036884655.1	Musa acuminata AAA Group	Zingiberales_Musa_acuminata_AAA_Group	421	outgroup	yes
+GCF_009730915.1	Dioscorea cayenensis subsp. rotundata	Dioscoreales_Dioscorea_cayenensis_subsp._rotundata	485	outgroup	yes
+GCF_001876935.1	Asparagus officinalis	Asparagales_Asparagus_officinalis	67	outgroup	yes
