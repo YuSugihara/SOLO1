@@ -12,7 +12,7 @@ scored in the same way and serves as the benchmark, giving 297 scored entries.
 | `ipTM_LCB` | Interface predicted template modelling score reported by AlphaFold 3 | higher |
 | `D_APEX` | Average distance between the N-terminal methionines at the predicted resistosome apex | lower |
 | `SD_THETA_ROT` | Dispersion of the rotational angle between protomers | lower |
-| `S_PROTO` | Structural deviation between protomers | lower |
+| `S_PROTO` | Radial dispersion of protomer centroids, the root-mean-square deviation of their distances from the ring centre | lower |
 | `Sum_CONTACTS` | Number of contacts between protomers | higher |
 | `BSA_INT_PROTO` | Surface area buried between protomers | higher |
 
