@@ -1,0 +1,297 @@
+tip_label	species	assembly	protein_ID	plant_order	plant_order_group	sensor_clade	is_solo1_clade	weighted_rank	ipTM_LCB	D_APEX	screening_stage	Cell_death	WT_domesticated_autoactivity	screening_class
+Triticum_aestivum|GCF_018294505.1|XP_044459919.1	Triticum_aestivum	GCF_018294505.1	XP_044459919.1	Poales	Poales	N/A	False	124	0.506048	59.746575	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_040256158.1	Aegilops_tauschii	GCF_002575655.2	XP_040256158.1	Poales	Poales	N/A	False	120	0.5604	73.158769	N/A	N/A	N/A	N/A
+Zea_mays|GCF_902167145.1|NP_001348372.1	Zea_mays	GCF_902167145.1	NP_001348372.1	Poales	Poales	N/A	False	83	0.590267	59.033744	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_040249174.1	Aegilops_tauschii	GCF_002575655.2	XP_040249174.1	Poales	Poales	N/A	False	7	0.698684	14.3284	structural ranking	Yes	Autoactive	Autoactive
+Setaria_viridis|GCF_005286985.1|XP_034606584.1	Setaria_viridis	GCF_005286985.1	XP_034606584.1	Poales	Poales	N/A	False	75	0.581321	48.924059	N/A	N/A	N/A	N/A
+Phragmites_australis|GCF_958298935.1|XP_062211497.1	Phragmites_australis	GCF_958298935.1	XP_062211497.1	Poales	Poales	N/A	False	29	0.6836	19.713397	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Setaria_italica|GCF_000263155.2|XP_022681162.1	Setaria_italica	GCF_000263155.2	XP_022681162.1	Poales	Poales	N/A	False	86	0.5768	54.14466	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039836643.1	Panicum_virgatum	GCF_016808335.1	XP_039836643.1	Poales	Poales	N/A	False	66	0.630061	55.204452	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025809375.1	Panicum_hallii	GCF_002211085.1	XP_025809375.1	Poales	Poales	N/A	False	53	0.620533	44.655187	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025809372.1	Panicum_hallii	GCF_002211085.1	XP_025809372.1	Poales	Poales	N/A	False	96	0.580133	59.540069	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025805197.1	Panicum_hallii	GCF_002211085.1	XP_025805197.1	Poales	Poales	N/A	False	113	0.557027	68.183908	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025807383.1	Panicum_hallii	GCF_002211085.1	XP_025807383.1	Poales	Poales	N/A	False	78	0.556048	42.996437	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Panicum_hallii|GCF_002211085.1|XP_025805195.1	Panicum_hallii	GCF_002211085.1	XP_025805195.1	Poales	Poales	N/A	False	76	0.576048	45.768077	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052156712.1	Oryza_glaberrima	GCF_000147395.1	XP_052156712.1	Poales	Poales	N/A	False	84	0.581333	56.354245	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044438738.1	Triticum_aestivum	GCF_018294505.1	XP_044438738.1	Poales	Poales	N/A	False	69	0.590133	46.798656	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051188689.1	Lolium_perenne	GCF_019359855.1	XP_051188689.1	Poales	Poales	N/A	True	52	0.649381	53.454003	SOLO1 clade follow-up	Yes	Not autoactive	DV-dependent cell death
+Sorghum_bicolor|GCF_000003195.3|XP_002449692.2	Sorghum_bicolor	GCF_000003195.3	XP_002449692.2	Poales	Poales	N/A	True	1	0.73	16.367473	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Hordeum_vulgare|GCF_904849725.1|XP_044964102.1	Hordeum_vulgare	GCF_904849725.1	XP_044964102.1	Poales	Poales	N/A	True	57	0.6568	56.783175	SOLO1 clade follow-up	Yes	Not autoactive	DV-dependent cell death
+Triticum_urartu|GCF_003073215.2|XP_048547975.1	Triticum_urartu	GCF_003073215.2	XP_048547975.1	Poales	Poales	N/A	True	64	0.6436	58.715853	SOLO1 clade follow-up	Yes	Not autoactive	DV-dependent cell death
+Triticum_urartu|GCF_003073215.2|XP_048559952.1	Triticum_urartu	GCF_003073215.2	XP_048559952.1	Poales	Poales	N/A	True	82	0.627027	68.289156	SOLO1 clade follow-up	Yes	Not autoactive	DV-dependent cell death
+Aegilops_tauschii|GCF_002575655.2|XP_020170543.1	Aegilops_tauschii	GCF_002575655.2	XP_020170543.1	Poales	Poales	N/A	True	2	0.729381	15.2984	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Lolium_perenne|GCF_019359855.1|XP_051228043.1	Lolium_perenne	GCF_019359855.1	XP_051228043.1	Poales	Poales	N/A	False	20	0.689381	17.045315	structural ranking	No	Not autoactive	No cell death
+Triticum_aestivum|GCF_018294505.1|XP_044386513.1	Triticum_aestivum	GCF_018294505.1	XP_044386513.1	Poales	Poales	N/A	False	70	0.595796	52.119421	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044949280.1	Hordeum_vulgare	GCF_904849725.1	XP_044949280.1	Poales	Poales	N/A	False	87	0.5212	32.989719	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044968597.1	Hordeum_vulgare	GCF_904849725.1	XP_044968597.1	Poales	Poales	N/A	False	98	0.5508	54.494496	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037488081.1	Triticum_dicoccoides	GCF_002162155.2	XP_037488081.1	Poales	Poales	N/A	False	104	0.540133	54.049561	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037480097.1	Triticum_dicoccoides	GCF_002162155.2	XP_037480097.1	Poales	Poales	N/A	False	47	0.6068	19.243649	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037419370.1	Triticum_dicoccoides	GCF_002162155.2	XP_037419370.1	Poales	Poales	N/A	False	45	0.6436	32.425626	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039816102.1	Panicum_virgatum	GCF_016808335.1	XP_039816102.1	Poales	Poales	N/A	False	118	0.538684	64.42226	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_015697676.2	Oryza_brachyantha	GCF_000231095.2	XP_015697676.2	Poales	Poales	N/A	False	105	0.590133	70.247597	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_015697675.2	Oryza_brachyantha	GCF_000231095.2	XP_015697675.2	Poales	Poales	N/A	False	112	0.580133	72.537196	structural ranking	No	Not autoactive	No cell death
+Oryza_glaberrima|GCF_000147395.1|XP_052135684.1	Oryza_glaberrima	GCF_000147395.1	XP_052135684.1	Poales	Poales	N/A	False	95	0.530061	48.285769	N/A	N/A	N/A	N/A
+Oryza_sativa|GCF_034140825.1|XP_066161980.1	Oryza_sativa	GCF_034140825.1	XP_066161980.1	Poales	Poales	N/A	False	100	0.546957	53.8946	structural ranking	No	Not autoactive	No cell death
+Oryza_glaberrima|GCF_000147395.1|XP_052135677.1	Oryza_glaberrima	GCF_000147395.1	XP_052135677.1	Poales	Poales	N/A	False	157	0.380267	70.850407	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_040384179.1	Oryza_brachyantha	GCF_000231095.2	XP_040384179.1	Poales	Poales	N/A	False	109	0.516926	53.347602	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_006647196.1	Oryza_brachyantha	GCF_000231095.2	XP_006647196.1	Poales	Poales	N/A	False	80	0.557027	47.836313	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052136612.1	Oryza_glaberrima	GCF_000147395.1	XP_052136612.1	Poales	Poales	N/A	False	106	0.537368	53.772746	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044964119.1	Hordeum_vulgare	GCF_904849725.1	XP_044964119.1	Poales	Poales	N/A	False	63	0.591733	37.169558	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Aegilops_tauschii|GCF_002575655.2|XP_045088442.1	Aegilops_tauschii	GCF_002575655.2	XP_045088442.1	Poales	Poales	N/A	False	56	0.592	29.498693	N/A	N/A	N/A	N/A
+Setaria_viridis|GCF_005286985.1|XP_034606764.1	Setaria_viridis	GCF_005286985.1	XP_034606764.1	Poales	Poales	N/A	False	55	0.576048	18.215314	N/A	N/A	N/A	N/A
+Setaria_italica|GCF_000263155.2|XP_022685121.1	Setaria_italica	GCF_000263155.2	XP_022685121.1	Poales	Poales	N/A	False	51	0.631067	39.198526	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039776926.1	Panicum_virgatum	GCF_016808335.1	XP_039776926.1	Poales	Poales	N/A	False	15	0.690267	17.045492	structural ranking	No	Not autoactive	No cell death
+Panicum_hallii|GCF_002211085.1|XP_025827978.1	Panicum_hallii	GCF_002211085.1	XP_025827978.1	Poales	Poales	N/A	False	60	0.597524	38.737316	N/A	N/A	N/A	N/A
+Sorghum_bicolor|GCF_000003195.3|XP_021317581.1	Sorghum_bicolor	GCF_000003195.3	XP_021317581.1	Poales	Poales	N/A	False	19	0.690133	17.3498	N/A	N/A	N/A	N/A
+Phragmites_australis|GCF_958298935.1|XP_062192976.1	Phragmites_australis	GCF_958298935.1	XP_062192976.1	Poales	Poales	N/A	False	252	0.2668	70.588709	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039853231.1	Panicum_virgatum	GCF_016808335.1	XP_039853231.1	Poales	Poales	N/A	False	245	0.286377	102.471865	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039777446.1	Panicum_virgatum	GCF_016808335.1	XP_039777446.1	Poales	Poales	N/A	False	231	0.291471	87.30327	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044974324.1	Hordeum_vulgare	GCF_904849725.1	XP_044974324.1	Poales	Poales	N/A	False	280	0.2668	88.523311	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_020201142.1	Aegilops_tauschii	GCF_002575655.2	XP_020201142.1	Poales	Poales	N/A	False	258	0.28	109.245697	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_003573086.2	Brachypodium_distachyon	GCF_000005505.3	XP_003573086.2	Poales	Poales	N/A	False	199	0.280133	54.990565	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047072080.1	Lolium_rigidum	GCF_022539505.1	XP_047072080.1	Poales	Poales	N/A	False	213	0.280267	64.94306	N/A	N/A	N/A	N/A
+Sorghum_bicolor|GCF_000003195.3|XP_002463270.1	Sorghum_bicolor	GCF_000003195.3	XP_002463270.1	Poales	Poales	N/A	False	177	0.309331	57.454697	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044431247.1	Triticum_aestivum	GCF_018294505.1	XP_044431247.1	Poales	Poales	N/A	False	125	0.508684	62.613848	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047085408.1	Lolium_rigidum	GCF_022539505.1	XP_047085408.1	Poales	Poales	N/A	False	59	0.5908	30.443267	structural ranking	No	Not autoactive	No cell death
+Lolium_rigidum|GCF_022539505.1|XP_047043757.1	Lolium_rigidum	GCF_022539505.1	XP_047043757.1	Poales	Poales	N/A	False	54	0.6036	29.058629	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051216715.1	Lolium_perenne	GCF_019359855.1	XP_051216715.1	Poales	Poales	N/A	False	44	0.630291	22.233402	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_020165042.1	Aegilops_tauschii	GCF_002575655.2	XP_020165042.1	Poales	Poales	N/A	False	71	0.5804	40.985147	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044343843.1	Triticum_aestivum	GCF_018294505.1	XP_044343843.1	Poales	Poales	N/A	False	88	0.638684	74.525868	structural ranking	No	Not autoactive	No cell death
+Triticum_dicoccoides|GCF_002162155.2|XP_037403894.1	Triticum_dicoccoides	GCF_002162155.2	XP_037403894.1	Poales	Poales	N/A	False	58	0.609199	40.257758	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044436467.1	Triticum_aestivum	GCF_018294505.1	XP_044436467.1	Poales	Poales	Pia-2/MIC1	False	140	0.410267	67.016964	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044362046.1	Triticum_aestivum	GCF_018294505.1	XP_044362046.1	Poales	Poales	Pia-2/MIC1	False	137	0.346926	44.216689	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051206140.1	Lolium_perenne	GCF_019359855.1	XP_051206140.1	Poales	Poales	Pia-2/MIC1	False	210	0.305796	78.981954	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044423678.1	Triticum_aestivum	GCF_018294505.1	XP_044423678.1	Poales	Poales	Pia-2/MIC1	False	235	0.300133	105.448935	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044445796.1	Triticum_aestivum	GCF_018294505.1	XP_044445796.1	Poales	Poales	Pia-2/MIC1	False	151	0.360846	60.679984	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044445794.1	Triticum_aestivum	GCF_018294505.1	XP_044445794.1	Poales	Poales	Pia-2/MIC1	False	196	0.350061	89.825937	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044411136.1	Triticum_aestivum	GCF_018294505.1	XP_044411136.1	Poales	Poales	Pia-2/MIC1	False	241	0.2872	94.603925	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044411131.1	Triticum_aestivum	GCF_018294505.1	XP_044411131.1	Poales	Poales	Pia-2/MIC1	False	172	0.436048	104.044975	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044428848.1	Triticum_aestivum	GCF_018294505.1	XP_044428848.1	Poales	Poales	Pia-2/MIC1	False	163	0.4268	91.489619	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_045086539.1	Aegilops_tauschii	GCF_002575655.2	XP_045086539.1	Poales	Poales	Pia-2/MIC1	False	145	0.3172	31.501553	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048546522.1	Triticum_urartu	GCF_003073215.2	XP_048546522.1	Poales	Poales	Pia-2/MIC1	False	187	0.397368	110.785227	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044366557.1	Triticum_aestivum	GCF_018294505.1	XP_044366557.1	Poales	Poales	Pia-2/MIC1	False	238	0.294804	105.493335	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_020188669.1	Aegilops_tauschii	GCF_002575655.2	XP_020188669.1	Poales	Poales	Pia-2/MIC1	False	161	0.40311	84.86799	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044425751.1	Triticum_aestivum	GCF_018294505.1	XP_044425751.1	Poales	Poales	Pia-2/MIC1	False	153	0.429777	81.497988	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047080084.1	Lolium_rigidum	GCF_022539505.1	XP_047080084.1	Poales	Poales	Pia-2/MIC1	False	147	0.324343	45.69488	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044945994.1	Hordeum_vulgare	GCF_904849725.1	XP_044945994.1	Poales	Poales	Pia-2/MIC1	False	166	0.332096	60.051487	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044366601.1	Triticum_aestivum	GCF_018294505.1	XP_044366601.1	Poales	Poales	Pia-2/MIC1	False	159	0.4108	84.74448	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044426061.1	Triticum_aestivum	GCF_018294505.1	XP_044426061.1	Poales	Poales	Pia-2/MIC1	False	200	0.332096	86.358791	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048544814.1	Triticum_urartu	GCF_003073215.2	XP_048544814.1	Poales	Poales	Pia-2/MIC1	False	188	0.387513	98.48332	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048544811.1	Triticum_urartu	GCF_003073215.2	XP_048544811.1	Poales	Poales	Pia-2/MIC1	False	116	0.390061	32.481791	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_020199675.1	Aegilops_tauschii	GCF_002575655.2	XP_020199675.1	Poales	Poales	Pia-2/MIC1	False	181	0.300061	56.580352	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044398476.1	Triticum_aestivum	GCF_018294505.1	XP_044398476.1	Poales	Poales	Pia-2/MIC1	False	195	0.344855	85.461738	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044389891.1	Triticum_aestivum	GCF_018294505.1	XP_044389891.1	Poales	Poales	Pia-2/MIC1	False	197	0.360667	104.298238	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044389888.1	Triticum_aestivum	GCF_018294505.1	XP_044389888.1	Poales	Poales	Pia-2/MIC1	False	189	0.300361	59.9649	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037435582.1	Triticum_dicoccoides	GCF_002162155.2	XP_037435582.1	Poales	Poales	Pia-2/MIC1	False	218	0.300491	85.826491	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052133764.1	Oryza_glaberrima	GCF_000147395.1	XP_052133764.1	Poales	Poales	Pia-2/MIC1	False	130	0.479381	60.804882	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052135790.1	Oryza_glaberrima	GCF_000147395.1	XP_052135790.1	Poales	Poales	Pia-2/MIC1	False	154	0.300267	33.894551	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048540843.1	Triticum_urartu	GCF_003073215.2	XP_048540843.1	Poales	Poales	Pia-2/MIC1	False	102	0.450267	26.800627	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048538979.1	Triticum_urartu	GCF_003073215.2	XP_048538979.1	Poales	Poales	Pia-2/MIC1	False	138	0.321523	22.393292	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037423744.1	Triticum_dicoccoides	GCF_002162155.2	XP_037423744.1	Poales	Poales	Pia-2/MIC1	False	103	0.448684	26.761124	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044379852.1	Triticum_aestivum	GCF_018294505.1	XP_044379852.1	Poales	Poales	Pia-2/MIC1	False	214	0.330491	98.17119	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044974663.1	Hordeum_vulgare	GCF_904849725.1	XP_044974663.1	Poales	Poales	Pia-2/MIC1	False	205	0.340533	91.924982	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037482791.1	Triticum_dicoccoides	GCF_002162155.2	XP_037482791.1	Poales	Poales	Pia-2/MIC1	False	212	0.300291	79.823338	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037488226.1	Triticum_dicoccoides	GCF_002162155.2	XP_037488226.1	Poales	Poales	Pia-2/MIC1	False	232	0.2944	91.794963	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_040247043.2	Aegilops_tauschii	GCF_002575655.2	XP_040247043.2	Poales	Poales	Pia-2/MIC1	False	220	0.281474	68.673471	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044954047.1	Hordeum_vulgare	GCF_904849725.1	XP_044954047.1	Poales	Poales	Pia-2/MIC1	False	198	0.316048	73.899641	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037454250.1	Triticum_dicoccoides	GCF_002162155.2	XP_037454250.1	Poales	Poales	Pia-2/MIC1	False	256	0.2768	97.15055	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048532443.1	Triticum_urartu	GCF_003073215.2	XP_048532443.1	Poales	Poales	Pia-2/MIC1	False	281	0.269777	97.838852	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037444170.1	Triticum_dicoccoides	GCF_002162155.2	XP_037444170.1	Poales	Poales	Pia-2/MIC1	False	249	0.28	94.404441	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_010236677.2	Brachypodium_distachyon	GCF_000005505.3	XP_010236677.2	Poales	Poales	Pia-2/MIC1	False	211	0.350674	113.119571	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039823043.1	Panicum_virgatum	GCF_016808335.1	XP_039823043.1	Poales	Poales	Pia-2/MIC1	False	206	0.274855	52.966389	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051179768.1	Lolium_perenne	GCF_019359855.1	XP_051179768.1	Poales	Poales	Pia-2/MIC1	False	183	0.3768	89.083577	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044373858.1	Triticum_aestivum	GCF_018294505.1	XP_044373858.1	Poales	Poales	Pia-2/MIC1	False	165	0.350061	66.425108	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044980502.1	Hordeum_vulgare	GCF_904849725.1	XP_044980502.1	Poales	Poales	Pia-2/MIC1	False	194	0.298762	60.52813	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044980498.1	Hordeum_vulgare	GCF_904849725.1	XP_044980498.1	Poales	Poales	Pia-2/MIC1	False	293	0.2544	91.837347	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044364430.1	Triticum_aestivum	GCF_018294505.1	XP_044364430.1	Poales	Poales	Pia-2/MIC1	False	226	0.312096	100.114273	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037429496.1	Triticum_dicoccoides	GCF_002162155.2	XP_037429496.1	Poales	Poales	Pia-2/MIC1	False	286	0.262096	87.029278	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044961693.1	Hordeum_vulgare	GCF_904849725.1	XP_044961693.1	Poales	Poales	Pia-2/MIC1	False	162	0.3836	78.225687	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048546981.1	Triticum_urartu	GCF_003073215.2	XP_048546981.1	Poales	Poales	Pia-2/MIC1	False	175	0.357368	73.722121	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044947874.1	Hordeum_vulgare	GCF_904849725.1	XP_044947874.1	Poales	Poales	Pia-2/MIC1	False	191	0.3772	94.717273	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048572799.1	Triticum_urartu	GCF_003073215.2	XP_048572799.1	Poales	Poales	Pia-2/MIC1	False	193	0.37	96.031341	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_020160449.1	Aegilops_tauschii	GCF_002575655.2	XP_020160449.1	Poales	Poales	Pia-2/MIC1	False	178	0.360267	79.839965	N/A	N/A	N/A	N/A
+Oryza_sativa|GCF_034140825.1|XP_066161727.1	Oryza_sativa	GCF_034140825.1	XP_066161727.1	Poales	Poales	Pia-2/MIC1	False	173	0.3844	85.231742	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_015697771.1	Oryza_brachyantha	GCF_000231095.2	XP_015697771.1	Poales	Poales	Pia-2/MIC1	False	156	0.360061	65.31861	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039776525.1	Panicum_virgatum	GCF_016808335.1	XP_039776525.1	Poales	Poales	Pia-2/MIC1	False	268	0.2736	120.076511	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025827327.1	Panicum_hallii	GCF_002211085.1	XP_025827327.1	Poales	Poales	Pia-2/MIC1	False	294	0.2604	106.627789	N/A	N/A	N/A	N/A
+Setaria_viridis|GCF_005286985.1|XP_034606776.1	Setaria_viridis	GCF_005286985.1	XP_034606776.1	Poales	Poales	Pia-2/MIC1	False	126	0.400291	49.538796	N/A	N/A	N/A	N/A
+Setaria_italica|GCF_000263155.2|XP_022684933.1	Setaria_italica	GCF_000263155.2	XP_022684933.1	Poales	Poales	Pia-2/MIC1	False	273	0.27	93.762889	N/A	N/A	N/A	N/A
+Setaria_italica|GCF_000263155.2|XP_004979046.2	Setaria_italica	GCF_000263155.2	XP_004979046.2	Poales	Poales	Pia-2/MIC1	False	239	0.271169	76.181511	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039776144.1	Panicum_virgatum	GCF_016808335.1	XP_039776144.1	Poales	Poales	Pia-2/MIC1	False	131	0.419777	56.626706	N/A	N/A	N/A	N/A
+Setaria_italica|GCF_000263155.2|XP_004978809.1	Setaria_italica	GCF_000263155.2	XP_004978809.1	Poales	Poales	Pia-2/MIC1	False	228	0.286	77.533481	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_040384620.1	Oryza_brachyantha	GCF_000231095.2	XP_040384620.1	Poales	Poales	Pia-2/MIC1	False	221	0.290674	76.574696	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052135896.1	Oryza_glaberrima	GCF_000147395.1	XP_052135896.1	Poales	Poales	Pia-2/MIC1	False	186	0.294855	55.753395	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_040385613.1	Oryza_brachyantha	GCF_000231095.2	XP_040385613.1	Poales	Poales	Pia-2/MIC1	False	168	0.388189	84.495971	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052137951.1	Oryza_glaberrima	GCF_000147395.1	XP_052137951.1	Poales	Poales	Pia-2/MIC1	False	202	0.2968	67.91903	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025827284.1	Panicum_hallii	GCF_002211085.1	XP_025827284.1	Poales	Poales	Pia-2/MIC1	False	277	0.26311	79.253295	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039801363.1	Panicum_virgatum	GCF_016808335.1	XP_039801363.1	Poales	Poales	Pia-2/MIC1	False	169	0.3236	58.868073	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025809683.1	Panicum_hallii	GCF_002211085.1	XP_025809683.1	Poales	Poales	Pia-2/MIC1	False	174	0.316377	57.356546	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047079587.1	Lolium_rigidum	GCF_022539505.1	XP_047079587.1	Poales	Poales	Pia-2/MIC1	False	176	0.320267	59.706045	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047042921.1	Lolium_rigidum	GCF_022539505.1	XP_047042921.1	Poales	Poales	Pia-2/MIC1	False	227	0.2876	78.211158	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051224213.1	Lolium_perenne	GCF_019359855.1	XP_051224213.1	Poales	Poales	Pia-2/MIC1	False	207	0.350133	102.520598	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044447909.1	Triticum_aestivum	GCF_018294505.1	XP_044447909.1	Poales	Poales	Pia-2/MIC1	False	190	0.30311	61.957173	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048562621.1	Triticum_urartu	GCF_003073215.2	XP_048562621.1	Poales	Poales	Pia-2/MIC1	False	225	0.290061	78.128878	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037439111.1	Triticum_dicoccoides	GCF_002162155.2	XP_037439111.1	Poales	Poales	Pia-2/MIC1	False	216	0.29	71.012322	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_024318477.1	Brachypodium_distachyon	GCF_000005505.3	XP_024318477.1	Poales	Poales	Pia-2/MIC1	False	171	0.320533	58.087243	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_024311152.1	Brachypodium_distachyon	GCF_000005505.3	XP_024311152.1	Poales	Poales	Pia-2/MIC1	False	208	0.270133	48.295362	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047092756.1	Lolium_rigidum	GCF_022539505.1	XP_047092756.1	Poales	Poales	Pia-2/MIC1	False	261	0.270267	94.221097	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051177790.1	Lolium_perenne	GCF_019359855.1	XP_051177790.1	Poales	Poales	Pia-2/MIC1	False	267	0.268684	85.476194	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044984278.1	Hordeum_vulgare	GCF_904849725.1	XP_044984278.1	Poales	Poales	Pia-2/MIC1	False	180	0.424	129.636147	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048531405.1	Triticum_urartu	GCF_003073215.2	XP_048531405.1	Poales	Poales	Pia-2/MIC1	False	152	0.3804	66.780085	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037422814.1	Triticum_dicoccoides	GCF_002162155.2	XP_037422814.1	Poales	Poales	Pia-2/MIC1	False	97	0.53	48.834253	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_014758615.1	Brachypodium_distachyon	GCF_000005505.3	XP_014758615.1	Poales	Poales	Pia-2/MIC1	False	204	0.297598	68.919714	N/A	N/A	N/A	N/A
+Oryza_sativa|GCF_034140825.1|XP_066161538.1	Oryza_sativa	GCF_034140825.1	XP_066161538.1	Poales	Poales	Pia-2/MIC1	False	274	0.2668	84.106395	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_015698060.1	Oryza_brachyantha	GCF_000231095.2	XP_015698060.1	Poales	Poales	Pia-2/MIC1	False	240	0.270133	71.419757	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052137457.1	Oryza_glaberrima	GCF_000147395.1	XP_052137457.1	Poales	Poales	Pia-2/MIC1	False	279	0.2568	73.677048	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052135576.1	Oryza_glaberrima	GCF_000147395.1	XP_052135576.1	Poales	Poales	Pia-2/MIC1	False	297	0.225668	104.691927	N/A	N/A	N/A	N/A
+Phragmites_australis|GCF_958298935.1|XP_062193508.1	Phragmites_australis	GCF_958298935.1	XP_062193508.1	Poales	Poales	Pia-2/MIC1	False	285	0.268399	100.721233	N/A	N/A	N/A	N/A
+Setaria_italica|GCF_000263155.2|XP_004956573.1	Setaria_italica	GCF_000263155.2	XP_004956573.1	Poales	Poales	Pia-2/MIC1	False	160	0.46	92.929028	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039840105.1	Panicum_virgatum	GCF_016808335.1	XP_039840105.1	Poales	Poales	Pia-2/MIC1	False	290	0.256957	90.190037	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025807801.1	Panicum_hallii	GCF_002211085.1	XP_025807801.1	Poales	Poales	Pia-2/MIC1	False	215	0.290533	72.809187	N/A	N/A	N/A	N/A
+Sorghum_bicolor|GCF_000003195.3|XP_021321847.1	Sorghum_bicolor	GCF_000003195.3	XP_021321847.1	Poales	Poales	Pia-2/MIC1	False	209	0.321619	85.748078	N/A	N/A	N/A	N/A
+Sorghum_bicolor|GCF_000003195.3|XP_002462196.2	Sorghum_bicolor	GCF_000003195.3	XP_002462196.2	Poales	Poales	Pia-2/MIC1	False	192	0.299331	59.492204	N/A	N/A	N/A	N/A
+Sorghum_bicolor|GCF_000003195.3|XP_002462195.1	Sorghum_bicolor	GCF_000003195.3	XP_002462195.1	Poales	Poales	Pia-2/MIC1	False	244	0.290133	130.354821	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044439473.1	Triticum_aestivum	GCF_018294505.1	XP_044439473.1	Poales	Poales	Pia-2/MIC1	False	132	0.379706	48.816905	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044430965.1	Triticum_aestivum	GCF_018294505.1	XP_044430965.1	Poales	Poales	Pia-2/MIC1	False	219	0.280182	66.771086	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048542005.1	Triticum_urartu	GCF_003073215.2	XP_048542005.1	Poales	Poales	Pia-2/MIC1	False	287	0.2512	82.408175	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047085118.1	Lolium_rigidum	GCF_022539505.1	XP_047085118.1	Poales	Poales	Pia-2/MIC1	False	149	0.333915	51.914224	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051179984.1	Lolium_perenne	GCF_019359855.1	XP_051179984.1	Poales	Poales	Pia-2/MIC1	False	139	0.3536	48.932886	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044958973.1	Hordeum_vulgare	GCF_904849725.1	XP_044958973.1	Poales	Poales	Pia-2/MIC1	False	150	0.340133	52.375136	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037416097.1	Triticum_dicoccoides	GCF_002162155.2	XP_037416097.1	Poales	Poales	Pia-2/MIC1	False	164	0.320133	54.955577	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044414485.1	Triticum_aestivum	GCF_018294505.1	XP_044414485.1	Poales	Poales	Pia-2/MIC1	False	129	0.410061	53.496166	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044410565.1	Triticum_aestivum	GCF_018294505.1	XP_044410565.1	Poales	Poales	Pia-2/MIC1	False	146	0.346048	52.69789	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044338196.1	Triticum_aestivum	GCF_018294505.1	XP_044338196.1	Poales	Poales	Pia-2/MIC1	False	230	0.276926	69.945339	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_014758256.1	Brachypodium_distachyon	GCF_000005505.3	XP_014758256.1	Poales	Poales	Pia-2/MIC1	False	155	0.34	56.083251	N/A	N/A	N/A	N/A
+Triticum_aestivum|GCF_018294505.1|XP_044321435.1	Triticum_aestivum	GCF_018294505.1	XP_044321435.1	Poales	Poales	Pia-2/MIC1	False	247	0.270267	79.933269	N/A	N/A	N/A	N/A
+Oryza_brachyantha|GCF_000231095.2|XP_015692519.2	Oryza_brachyantha	GCF_000231095.2	XP_015692519.2	Poales	Poales	Pia-2/MIC1	False	276	0.27	94.757674	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039777876.1	Panicum_virgatum	GCF_016808335.1	XP_039777876.1	Poales	Poales	Pia-2/MIC1	False	248	0.2736	85.465726	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039793074.1	Panicum_virgatum	GCF_016808335.1	XP_039793074.1	Poales	Poales	Pia-2/MIC1	False	201	0.282096	58.09011	N/A	N/A	N/A	N/A
+Sorghum_bicolor|GCF_000003195.3|XP_002451101.2	Sorghum_bicolor	GCF_000003195.3	XP_002451101.2	Poales	Poales	Pia-2/MIC1	False	275	0.2568	70.68929	N/A	N/A	N/A	N/A
+Aegilops_tauschii|GCF_002575655.2|XP_040250077.1	Aegilops_tauschii	GCF_002575655.2	XP_040250077.1	Poales	Poales	N/A	False	25	0.7	25.094153	N/A	N/A	N/A	N/A
+Actinidia_eriantha|GCF_019202715.1|XP_057478848.1	Actinidia_eriantha	GCF_019202715.1	XP_057478848.1	Ericales	Other	N/A	False	12	0.738684	23.744276	structural ranking	No	Not autoactive	No cell death
+Eucalyptus_grandis|GCF_016545825.1|XP_039170403.1	Eucalyptus_grandis	GCF_016545825.1	XP_039170403.1	Myrtales	Other	N/A	False	108	0.476048	45.897791	N/A	N/A	N/A	N/A
+Mangifera_indica|GCF_011075055.1|XP_044473726.1	Mangifera_indica	GCF_011075055.1	XP_044473726.1	Sapindales	Other	N/A	False	49	0.619777	22.974836	N/A	N/A	N/A	N/A
+Quercus_robur|GCF_932294415.1|XP_050246079.1	Quercus_robur	GCF_932294415.1	XP_050246079.1	Fagales	Other	N/A	False	16	0.690133	16.822303	N/A	N/A	N/A	N/A
+Prunus_avium|GCF_002207925.1|XP_021805323.1	Prunus_avium	GCF_002207925.1	XP_021805323.1	Rosales	Other	N/A	False	8	0.720133	18.093718	structural ranking	No	Not autoactive	No cell death
+Prunus_mume|GCF_000346735.1|XP_016650448.1	Prunus_mume	GCF_000346735.1	XP_016650448.1	Rosales	Other	N/A	False	24	0.678684	17.842626	N/A	N/A	N/A	N/A
+Quercus_robur|GCF_932294415.1|XP_050241422.1	Quercus_robur	GCF_932294415.1	XP_050241422.1	Fagales	Other	N/A	False	90	0.517368	34.031867	N/A	N/A	N/A	N/A
+Triticum_urartu|GCF_003073215.2|XP_048530073.1	Triticum_urartu	GCF_003073215.2	XP_048530073.1	Poales	Poales	N/A	False	37	0.652096	21.025424	structural ranking	Yes	Autoactive	Autoactive
+Coffea_arabica|GCF_003713225.1|XP_027124557.1	Coffea_arabica	GCF_003713225.1	XP_027124557.1	Gentianales	Other	N/A	False	4	0.78	19.461572	structural ranking	Yes	Strong autoactive	Autoactive
+Coffea_arabica|GCF_003713225.1|XP_027124103.1	Coffea_arabica	GCF_003713225.1	XP_027124103.1	Gentianales	Other	N/A	False	6	0.71	16.684855	structural ranking	No	Not autoactive	No cell death
+Alnus_glutinosa|GCF_958979055.1|XP_062143717.1	Alnus_glutinosa	GCF_958979055.1	XP_062143717.1	Fagales	Other	N/A	False	68	0.568684	26.539195	N/A	N/A	N/A	N/A
+Ziziphus_jujuba|GCF_031755915.1|XP_060671334.1	Ziziphus_jujuba	GCF_031755915.1	XP_060671334.1	Rosales	Other	N/A	False	26	0.700133	26.953743	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Salvia_splendens|GCF_004379255.2|XP_042037734.1	Salvia_splendens	GCF_004379255.2	XP_042037734.1	Lamiales	Lamiales	N/A	False	119	0.430267	49.689791	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031103709.1	Ipomoea_triloba	GCF_003576645.1	XP_031103709.1	Solanales	Solanales	N/A	False	62	0.586052	24.763658	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Ipomoea_nil|GCF_001879475.1|XP_019186671.1	Ipomoea_nil	GCF_001879475.1	XP_019186671.1	Solanales	Solanales	N/A	False	65	0.550491	17.385531	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012855535.1	Erythranthe_guttata	GCF_000504015.1	XP_012855535.1	Lamiales	Lamiales	NRC-S	False	283	0.2668	92.300644	N/A	N/A	N/A	N/A
+Lycium_ferocissimum|GCF_029784015.1|XP_059276748.1	Lycium_ferocissimum	GCF_029784015.1	XP_059276748.1	Solanales	Solanales	NRC-S	False	282	0.2256	70.968008	N/A	N/A	N/A	N/A
+Solanum_stenotomum|GCF_019186545.1|XP_049380796.1	Solanum_stenotomum	GCF_019186545.1	XP_049380796.1	Solanales	Solanales	NRC-S	False	291	0.259199	94.950975	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019184559.1	Ipomoea_nil	GCF_001879475.1	XP_019184559.1	Solanales	Solanales	NRC-S	False	143	0.462306	78.262038	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031113072.1	Ipomoea_triloba	GCF_003576645.1	XP_031113072.1	Solanales	Solanales	NRC-S	False	254	0.2668	71.531862	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019189898.1	Ipomoea_nil	GCF_001879475.1	XP_019189898.1	Solanales	Solanales	NRC-S	False	246	0.2836	100.730517	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031110163.1	Ipomoea_triloba	GCF_003576645.1	XP_031110163.1	Solanales	Solanales	NRC-S	False	271	0.2668	82.673737	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031108867.1	Ipomoea_triloba	GCF_003576645.1	XP_031108867.1	Solanales	Solanales	NRC-S	False	269	0.2668	81.888011	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031108865.1	Ipomoea_triloba	GCF_003576645.1	XP_031108865.1	Solanales	Solanales	NRC-S	False	233	0.27	62.107694	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031126149.1	Ipomoea_triloba	GCF_003576645.1	XP_031126149.1	Solanales	Solanales	NRC-S	False	270	0.2476	67.554117	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031108551.1	Ipomoea_triloba	GCF_003576645.1	XP_031108551.1	Solanales	Solanales	NRC-S	False	217	0.278684	61.656889	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019183863.1	Ipomoea_nil	GCF_001879475.1	XP_019183863.1	Solanales	Solanales	NRC-S	False	203	0.290133	62.88086	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019183855.1	Ipomoea_nil	GCF_001879475.1	XP_019183855.1	Solanales	Solanales	NRC-S	False	272	0.257368	71.924659	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031101970.1	Ipomoea_triloba	GCF_003576645.1	XP_031101970.1	Solanales	Solanales	NRC-S	False	263	0.27	87.649436	N/A	N/A	N/A	N/A
+Ipomoea_triloba|GCF_003576645.1|XP_031101958.1	Ipomoea_triloba	GCF_003576645.1	XP_031101958.1	Solanales	Solanales	NRC-S	False	253	0.27	80.720845	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019173960.1	Ipomoea_nil	GCF_001879475.1	XP_019173960.1	Solanales	Solanales	NRC-S	False	259	0.260133	67.511652	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019173959.1	Ipomoea_nil	GCF_001879475.1	XP_019173959.1	Solanales	Solanales	NRC-S	False	266	0.260133	72.010639	N/A	N/A	N/A	N/A
+Ipomoea_nil|GCF_001879475.1|XP_019173958.1	Ipomoea_nil	GCF_001879475.1	XP_019173958.1	Solanales	Solanales	NRC-S	False	292	0.258684	96.576319	N/A	N/A	N/A	N/A
+Capsicum_annuum|GCF_002878395.1|XP_047252600.1	Capsicum_annuum	GCF_002878395.1	XP_047252600.1	Solanales	Solanales	NRC-S	False	289	0.2236	80.85845	N/A	N/A	N/A	N/A
+Capsicum_annuum|GCF_002878395.1|XP_047252594.1	Capsicum_annuum	GCF_002878395.1	XP_047252594.1	Solanales	Solanales	NRC-S	False	295	0.238684	91.416662	N/A	N/A	N/A	N/A
+Capsicum_annuum|GCF_002878395.1|XP_016540135.2	Capsicum_annuum	GCF_002878395.1	XP_016540135.2	Solanales	Solanales	NRC-S	False	236	0.270133	69.364208	N/A	N/A	N/A	N/A
+Nicotiana_attenuata|GCF_001879085.1|XP_019246801.1	Nicotiana_attenuata	GCF_001879085.1	XP_019246801.1	Solanales	Solanales	NRC-S	False	278	0.2668	85.953052	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022857920.1	Olea_europaea	GCF_002742605.1	XP_022857920.1	Lamiales	Lamiales	NRC-S	False	243	0.280133	90.550095	N/A	N/A	N/A	N/A
+Salvia_splendens|GCF_004379255.2|XP_042036870.1	Salvia_splendens	GCF_004379255.2	XP_042036870.1	Lamiales	Lamiales	NRC-S	False	224	0.278684	66.31739	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847216.1	Olea_europaea	GCF_002742605.1	XP_022847216.1	Lamiales	Lamiales	NRC-S	False	260	0.2572	65.819214	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847362.1	Olea_europaea	GCF_002742605.1	XP_022847362.1	Lamiales	Lamiales	NRC-S	False	262	0.268762	82.985226	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847343.1	Olea_europaea	GCF_002742605.1	XP_022847343.1	Lamiales	Lamiales	NRC-S	False	185	0.288597	52.106571	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847341.1	Olea_europaea	GCF_002742605.1	XP_022847341.1	Lamiales	Lamiales	NRC-S	False	223	0.270291	57.963464	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847329.1	Olea_europaea	GCF_002742605.1	XP_022847329.1	Lamiales	Lamiales	NRC-S	False	222	0.2704	58.319821	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847210.1	Olea_europaea	GCF_002742605.1	XP_022847210.1	Lamiales	Lamiales	NRC-S	False	251	0.27	78.545995	N/A	N/A	N/A	N/A
+Olea_europaea|GCF_002742605.1|XP_022847056.1	Olea_europaea	GCF_002742605.1	XP_022847056.1	Lamiales	Lamiales	NRC-S	False	257	0.2668	72.938701	N/A	N/A	N/A	N/A
+Salvia_splendens|GCF_004379255.2|XP_042032511.1	Salvia_splendens	GCF_004379255.2	XP_042032511.1	Lamiales	Lamiales	NRC-S	False	255	0.27	81.005564	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853263.1	Erythranthe_guttata	GCF_000504015.1	XP_012853263.1	Lamiales	Lamiales	NRC-S	False	182	0.331015	69.96141	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853243.1	Erythranthe_guttata	GCF_000504015.1	XP_012853243.1	Lamiales	Lamiales	NRC-S	False	234	0.278684	74.027198	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853218.1	Erythranthe_guttata	GCF_000504015.1	XP_012853218.1	Lamiales	Lamiales	NRC-S	False	284	0.2636	88.940786	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853213.1	Erythranthe_guttata	GCF_000504015.1	XP_012853213.1	Lamiales	Lamiales	NRC-S	False	229	0.278684	69.41534	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853215.1	Erythranthe_guttata	GCF_000504015.1	XP_012853215.1	Lamiales	Lamiales	NRC-S	False	242	0.27	70.347746	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853206.1	Erythranthe_guttata	GCF_000504015.1	XP_012853206.1	Lamiales	Lamiales	NRC-S	False	237	0.2704	72.16839	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012847840.1	Erythranthe_guttata	GCF_000504015.1	XP_012847840.1	Lamiales	Lamiales	NRC-S	False	250	0.26311	64.524794	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853219.1	Erythranthe_guttata	GCF_000504015.1	XP_012853219.1	Lamiales	Lamiales	NRC-S	False	288	0.2468	80.432443	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012853212.1	Erythranthe_guttata	GCF_000504015.1	XP_012853212.1	Lamiales	Lamiales	NRC-S	False	264	0.2636	73.965882	N/A	N/A	N/A	N/A
+Erythranthe_guttata|GCF_000504015.1|XP_012833868.1	Erythranthe_guttata	GCF_000504015.1	XP_012833868.1	Lamiales	Lamiales	NRC-S	False	265	0.27	89.260814	N/A	N/A	N/A	N/A
+Vitis_riparia|GCF_004353265.1|XP_034672556.1	Vitis_riparia	GCF_004353265.1	XP_034672556.1	Vitales	Other	N/A	False	123	0.485242	57.37733	N/A	N/A	N/A	N/A
+Vitis_vinifera|GCF_030704535.1|XP_002271883.2	Vitis_vinifera	GCF_030704535.1	XP_002271883.2	Vitales	Other	N/A	False	5	0.730267	19.20604	structural ranking	No	Not autoactive	No cell death
+Mercurialis_annua|GCF_937616625.2|XP_050209783.1	Mercurialis_annua	GCF_937616625.2	XP_050209783.1	Malpighiales	Other	N/A	False	11	0.728684	19.313968	N/A	N/A	N/A	N/A
+Jatropha_curcas|GCF_014843425.1|XP_037497818.1	Jatropha_curcas	GCF_014843425.1	XP_037497818.1	Malpighiales	Other	N/A	False	13	0.6868	14.066054	N/A	N/A	N/A	N/A
+Punica_granatum|GCF_007655135.1|XP_031390885.1	Punica_granatum	GCF_007655135.1	XP_031390885.1	Myrtales	Other	N/A	False	14	0.73	22.9496	structural ranking	No	Not autoactive	No cell death
+Spinacia_oleracea|GCF_020520425.1|XP_056694510.1	Spinacia_oleracea	GCF_020520425.1	XP_056694510.1	Caryophyllales	Caryophyllales	N/A	False	38	0.6368	18.68282	N/A	N/A	N/A	N/A
+Amaranthus_tricolor|GCF_026212465.1|XP_057541882.1	Amaranthus_tricolor	GCF_026212465.1	XP_057541882.1	Caryophyllales	Caryophyllales	N/A	False	40	0.620061	16.952356	structural ranking	No	Not autoactive	No cell death
+Spinacia_oleracea|GCF_020520425.1|XP_056694532.1	Spinacia_oleracea	GCF_020520425.1	XP_056694532.1	Caryophyllales	Caryophyllales	N/A	False	79	0.491349	18.723134	N/A	N/A	N/A	N/A
+Chenopodium_quinoa|GCF_001683475.1|XP_021764801.1	Chenopodium_quinoa	GCF_001683475.1	XP_021764801.1	Caryophyllales	Caryophyllales	N/A	False	17	0.6868	16.068425	structural ranking	No	Not autoactive	No cell death
+Beta_vulgaris|GCF_026745355.1|XP_010671190.2	Beta_vulgaris	GCF_026745355.1	XP_010671190.2	Caryophyllales	Caryophyllales	N/A	False	28	0.650267	15.993115	structural ranking	No	Not autoactive	No cell death
+Amaranthus_tricolor|GCF_026212465.1|XP_057536107.1	Amaranthus_tricolor	GCF_026212465.1	XP_057536107.1	Caryophyllales	Caryophyllales	N/A	False	36	0.640667	17.87025	structural ranking	No	Not autoactive	No cell death
+Spinacia_oleracea|GCF_020520425.1|XP_021858945.2	Spinacia_oleracea	GCF_020520425.1	XP_021858945.2	Caryophyllales	Caryophyllales	N/A	False	23	0.666048	15.349146	N/A	N/A	N/A	N/A
+Chenopodium_quinoa|GCF_001683475.1|XP_021762325.1	Chenopodium_quinoa	GCF_001683475.1	XP_021762325.1	Caryophyllales	Caryophyllales	N/A	False	30	0.6604	18.541389	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047083625.1	Lolium_rigidum	GCF_022539505.1	XP_047083625.1	Poales	Poales	N/A	False	35	0.660133	19.801756	N/A	N/A	N/A	N/A
+Elaeis_guineensis|GCF_000442705.1|XP_010921526.1	Elaeis_guineensis	GCF_000442705.1	XP_010921526.1	Arecales	Other	N/A	False	61	0.608189	45.397638	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052144562.1	Oryza_glaberrima	GCF_000147395.1	XP_052144562.1	Poales	Poales	N/A	False	50	0.590267	18.590933	N/A	N/A	N/A	N/A
+Cryptomeria_japonica|GCF_030272615.1|XP_059070310.1	Cryptomeria_japonica	GCF_030272615.1	XP_059070310.1	Cupressales	Other	N/A	False	179	0.2804	35.805243	N/A	N/A	N/A	N/A
+Magnolia_sinica|GCF_029962835.1|XP_058096226.1	Magnolia_sinica	GCF_029962835.1	XP_058096226.1	Magnoliales	Other	N/A	False	72	0.5408	20.224028	structural ranking	No	Not autoactive	No cell death
+Triticum_aestivum|GCF_018294505.1|XP_044429991.1	Triticum_aestivum	GCF_018294505.1	XP_044429991.1	Poales	Poales	N/A	False	133	0.3548	32.67544	N/A	N/A	N/A	N/A
+Telopea_speciosissima|GCF_018873765.1|XP_043694556.1	Telopea_speciosissima	GCF_018873765.1	XP_043694556.1	Proteales	Other	N/A	False	85	0.4872	20.607949	N/A	N/A	N/A	N/A
+Pistacia_vera|GCF_008641045.1|XP_031261810.1	Pistacia_vera	GCF_008641045.1	XP_031261810.1	Sapindales	Other	N/A	False	22	0.699381	21.406243	structural ranking	No	Not autoactive	No cell death
+Pistacia_vera|GCF_008641045.1|XP_031248369.1	Pistacia_vera	GCF_008641045.1	XP_031248369.1	Sapindales	Other	N/A	False	10	0.7268	19.039963	N/A	N/A	N/A	N/A
+Hibiscus_syriacus|GCF_006381635.1|XP_039009246.1	Hibiscus_syriacus	GCF_006381635.1	XP_039009246.1	Malvales	Other	N/A	False	43	0.646048	28.022955	N/A	N/A	N/A	N/A
+Rosa_chinensis|GCF_002994745.2|XP_024180216.1	Rosa_chinensis	GCF_002994745.2	XP_024180216.1	Rosales	Other	N/A	False	32	0.668684	19.881107	N/A	N/A	N/A	N/A
+Mangifera_indica|GCF_011075055.1|XP_044482036.1	Mangifera_indica	GCF_011075055.1	XP_044482036.1	Sapindales	Other	N/A	False	27	0.6936	21.725381	structural ranking	No	Not autoactive	No cell death
+Quercus_robur|GCF_932294415.1|XP_050273390.1	Quercus_robur	GCF_932294415.1	XP_050273390.1	Fagales	Other	N/A	False	34	0.666048	20.626324	N/A	N/A	N/A	N/A
+Quercus_suber|GCF_002906115.3|XP_065618627.1	Quercus_suber	GCF_002906115.3	XP_065618627.1	Fagales	Other	N/A	False	21	0.698684	19.519965	structural ranking	No	Not autoactive	No cell death
+Quercus_suber|GCF_002906115.3|XP_065638740.1	Quercus_suber	GCF_002906115.3	XP_065638740.1	Fagales	Other	N/A	False	42	0.640133	21.117113	N/A	N/A	N/A	N/A
+Quercus_lobata|GCF_001633185.2|XP_030972360.1	Quercus_lobata	GCF_001633185.2	XP_030972360.1	Fagales	Other	N/A	False	33	0.686048	23.482759	structural ranking	Yes	Not autoactive	DV-dependent cell death
+Quercus_lobata|GCF_001633185.2|XP_030971697.1	Quercus_lobata	GCF_001633185.2	XP_030971697.1	Fagales	Other	N/A	False	3	0.73	16.544633	structural ranking	No	Not autoactive	No cell death
+Triticum_dicoccoides|GCF_002162155.2|XP_037480915.1	Triticum_dicoccoides	GCF_002162155.2	XP_037480915.1	Poales	Poales	N/A	False	101	0.616048	76.279099	N/A	N/A	N/A	N/A
+Asparagus_officinalis|GCF_001876935.1|XP_020266254.1	Asparagus_officinalis	GCF_001876935.1	XP_020266254.1	Asparagales	Other	N/A	False	73	0.5568	26.964734	N/A	N/A	N/A	N/A
+Arachis_ipaensis|GCF_000816755.2|XP_020972768.1	Arachis_ipaensis	GCF_000816755.2	XP_020972768.1	Fabales	Other	N/A	False	296	0.250133	101.856107	N/A	N/A	N/A	N/A
+Eutrema_salsugineum|GCF_000478725.1|XP_024006085.1	Eutrema_salsugineum	GCF_000478725.1	XP_024006085.1	Brassicales	Other	N/A	False	115	0.498684	54.739768	N/A	N/A	N/A	N/A
+Solanum_stenotomum|GCF_019186545.1|XP_049379485.1	Solanum_stenotomum	GCF_019186545.1	XP_049379485.1	Solanales	Solanales	N/A	False	127	0.556048	76.387909	N/A	N/A	N/A	N/A
+Solanum_stenotomum|GCF_019186545.1|XP_049379483.1	Solanum_stenotomum	GCF_019186545.1	XP_049379483.1	Solanales	Solanales	N/A	False	93	0.569381	56.816917	N/A	N/A	N/A	N/A
+Humulus_lupulus|GCF_963169125.1|XP_062115583.1	Humulus_lupulus	GCF_963169125.1	XP_062115583.1	Rosales	Other	N/A	False	111	0.554855	62.87729	N/A	N/A	N/A	N/A
+Morus_notabilis|GCF_000414095.1|XP_024031501.1	Morus_notabilis	GCF_000414095.1	XP_024031501.1	Rosales	Other	N/A	False	81	0.547368	37.282233	N/A	N/A	N/A	N/A
+Corylus_avellana|GCF_901000735.1|XP_059431275.1	Corylus_avellana	GCF_901000735.1	XP_059431275.1	Fagales	Other	N/A	False	67	0.620133	54.080088	N/A	N/A	N/A	N/A
+Telopea_speciosissima|GCF_018873765.1|XP_043691655.1	Telopea_speciosissima	GCF_018873765.1	XP_043691655.1	Proteales	Other	N/A	False	39	0.639381	19.639774	N/A	N/A	N/A	N/A
+Papaver_somniferum|GCF_003573695.1|XP_026432269.1	Papaver_somniferum	GCF_003573695.1	XP_026432269.1	Ranunculales	Other	N/A	False	9	0.6968	15.078394	structural ranking	No	Not autoactive	No cell death
+Papaver_somniferum|GCF_003573695.1|XP_026423206.1	Papaver_somniferum	GCF_003573695.1	XP_026423206.1	Ranunculales	Other	N/A	False	91	0.551467	52.574814	N/A	N/A	N/A	N/A
+Papaver_somniferum|GCF_003573695.1|XP_026425815.1	Papaver_somniferum	GCF_003573695.1	XP_026425815.1	Ranunculales	Other	N/A	False	94	0.519381	44.312189	N/A	N/A	N/A	N/A
+Papaver_somniferum|GCF_003573695.1|XP_026423196.1	Papaver_somniferum	GCF_003573695.1	XP_026423196.1	Ranunculales	Other	N/A	False	107	0.505796	48.331033	N/A	N/A	N/A	N/A
+Corylus_avellana|GCF_901000735.1|XP_059429058.1	Corylus_avellana	GCF_901000735.1	XP_059429058.1	Fagales	Other	N/A	False	41	0.680267	37.610773	N/A	N/A	N/A	N/A
+Spinacia_oleracea|GCF_020520425.1|XP_056683723.1	Spinacia_oleracea	GCF_020520425.1	XP_056683723.1	Caryophyllales	Caryophyllales	N/A	False	77	0.56311	45.955189	structural ranking	No	Not autoactive	No cell death
+Quercus_robur|GCF_932294415.1|XP_050245662.1	Quercus_robur	GCF_932294415.1	XP_050245662.1	Fagales	Other	N/A	False	74	0.590061	52.111614	N/A	N/A	N/A	N/A
+Quercus_robur|GCF_932294415.1|XP_050245641.1	Quercus_robur	GCF_932294415.1	XP_050245641.1	Fagales	Other	N/A	False	92	0.537368	48.268131	N/A	N/A	N/A	N/A
+Populus_nigra|GCF_951802175.1|XP_061947433.1	Populus_nigra	GCF_951802175.1	XP_061947433.1	Malpighiales	Other	N/A	False	122	0.507513	59.507511	N/A	N/A	N/A	N/A
+Pistacia_vera|GCF_008641045.1|XP_031280244.1	Pistacia_vera	GCF_008641045.1	XP_031280244.1	Sapindales	Other	N/A	False	99	0.5868	66.735586	N/A	N/A	N/A	N/A
+Cannabis_sativa|GCF_029168945.1|XP_060968289.1	Cannabis_sativa	GCF_029168945.1	XP_060968289.1	Rosales	Other	N/A	False	148	0.307987	27.834117	N/A	N/A	N/A	N/A
+Chenopodium_quinoa|GCF_001683475.1|XP_021744686.1	Chenopodium_quinoa	GCF_001683475.1	XP_021744686.1	Caryophyllales	Caryophyllales	N/A	False	170	0.344	65.735186	N/A	N/A	N/A	N/A
+Phragmites_australis|GCF_958298935.1|XP_062183319.1	Phragmites_australis	GCF_958298935.1	XP_062183319.1	Poales	Poales	N/A	False	31	0.640267	13.471241	N/A	N/A	N/A	N/A
+Zea_mays|GCF_902167145.1|NP_001340692.1	Zea_mays	GCF_902167145.1	NP_001340692.1	Poales	Poales	N/A	False	89	0.523825	38.64172	structural ranking	No	Not autoactive	No cell death
+Setaria_italica|GCF_000263155.2|XP_004979301.1	Setaria_italica	GCF_000263155.2	XP_004979301.1	Poales	Poales	N/A	False	48	0.610133	20.91238	N/A	N/A	N/A	N/A
+Oryza_glaberrima|GCF_000147395.1|XP_052166845.1	Oryza_glaberrima	GCF_000147395.1	XP_052166845.1	Poales	Poales	N/A	False	46	0.618762	19.315883	N/A	N/A	N/A	N/A
+Oryza_sativa|GCF_034140825.1|XP_015612169.1	Oryza_sativa	GCF_034140825.1	XP_015612169.1	Poales	Poales	Pii-2	False	128	0.359777	24.592269	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039813394.1	Panicum_virgatum	GCF_016808335.1	XP_039813394.1	Poales	Poales	Pii-2	False	158	0.3548	63.529806	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039830735.1	Panicum_virgatum	GCF_016808335.1	XP_039830735.1	Poales	Poales	Pii-2	False	141	0.388684	60.717569	N/A	N/A	N/A	N/A
+Panicum_hallii|GCF_002211085.1|XP_025804101.1	Panicum_hallii	GCF_002211085.1	XP_025804101.1	Poales	Poales	Pii-2	False	135	0.3968	58.839065	N/A	N/A	N/A	N/A
+Phragmites_australis|GCF_958298935.1|XP_062193306.1	Phragmites_australis	GCF_958298935.1	XP_062193306.1	Poales	Poales	Pii-2	False	142	0.38964	65.226213	N/A	N/A	N/A	N/A
+Phragmites_australis|GCF_958298935.1|XP_062193305.1	Phragmites_australis	GCF_958298935.1	XP_062193305.1	Poales	Poales	Pii-2	False	184	0.4004	110.873435	N/A	N/A	N/A	N/A
+Panicum_virgatum|GCF_016808335.1|XP_039794842.1	Panicum_virgatum	GCF_016808335.1	XP_039794842.1	Poales	Poales	Pii-2	False	144	0.354855	55.735009	N/A	N/A	N/A	N/A
+Setaria_italica|GCF_000263155.2|XP_004956600.1	Setaria_italica	GCF_000263155.2	XP_004956600.1	Poales	Poales	Pii-2	False	114	0.47342	52.120427	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047078841.1	Lolium_rigidum	GCF_022539505.1	XP_047078841.1	Poales	Poales	Pii-2	False	136	0.3636	53.276848	N/A	N/A	N/A	N/A
+Lolium_rigidum|GCF_022539505.1|XP_047047465.1	Lolium_rigidum	GCF_022539505.1	XP_047047465.1	Poales	Poales	Pii-2	False	117	0.460133	52.915957	N/A	N/A	N/A	N/A
+Lolium_perenne|GCF_019359855.1|XP_051228762.1	Lolium_perenne	GCF_019359855.1	XP_051228762.1	Poales	Poales	Pii-2	False	110	0.4868	49.36351	N/A	N/A	N/A	N/A
+Hordeum_vulgare|GCF_904849725.1|XP_044984657.1	Hordeum_vulgare	GCF_904849725.1	XP_044984657.1	Poales	Poales	Pii-2	False	121	0.4272	51.923274	N/A	N/A	N/A	N/A
+Triticum_dicoccoides|GCF_002162155.2|XP_037440913.1	Triticum_dicoccoides	GCF_002162155.2	XP_037440913.1	Poales	Poales	Pii-2	False	134	0.383593	53.683391	N/A	N/A	N/A	N/A
+Brachypodium_distachyon|GCF_000005505.3|XP_003576423.1	Brachypodium_distachyon	GCF_000005505.3	XP_003576423.1	Poales	Poales	Pii-2	False	167	0.330133	59.194262	N/A	N/A	N/A	N/A

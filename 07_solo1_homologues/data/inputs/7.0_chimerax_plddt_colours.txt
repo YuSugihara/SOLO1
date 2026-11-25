@@ -1,0 +1,4 @@
+color (@CA | @C1') & @@bfactor<100 #2767ce
+color (@CA | @C1') & @@bfactor<90 #55ABCC
+color (@CA | @C1') & @@bfactor<70 #E4C412
+color (@CA | @C1') & @@bfactor<50 #EE7642

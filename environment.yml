@@ -1,0 +1,60 @@
+# Environment for the analyses in this repository.
+#
+# Create and activate with:
+#
+#   conda env create -f environment.yml
+#   conda activate solo1
+#
+# Step 5.4 was run with IQ-TREE 2.3.6 and Step 7.6 with IQ-TREE 3.0.1. This file
+# pins 3.0.1; install 2.3.6 separately to reproduce Step 5.4.
+#
+# The AlphaFold 3 predictions of Step 02 were produced on the AlphaFold Server
+# (https://alphafoldserver.com) and the structural metrics of Step 03 with
+# SolNRCH_foldome (https://github.com/amiralito/SolNRCH_foldome); neither is
+# installed by this file.
+name: solo1
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  # Python
+  - python=3.10.12
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - matplotlib-base=3.10.9
+  - pillow
+  - statsmodels=0.15.0
+  - biopython=1.88
+
+  # conda-forge no longer builds SciPy 1.15.3 for Python 3.10, so it is
+  # installed from PyPI
+  - pip
+  - pip:
+      - scipy==1.15.3
+
+  # R
+  - r-base=4.5.3
+  - bioconductor-ggtree=4.0.5
+  - r-ape=5.8.1
+  - r-ggplot2=4.0.4
+  - r-ggnewscale=0.5.2
+  - r-patchwork=1.3.2
+  - r-dplyr=1.2.1
+  - r-readr=2.2.0
+  - r-tibble=3.3.1
+  - r-optparse=1.8.2
+  - r-svglite=2.2.2
+  - r-ragg=1.5.2
+  - r-systemfonts=1.3.4
+
+  # Sequence analysis and phylogenetics
+  - cd-hit=4.8.1
+  - mafft=7.526
+  - famsa=2.4.1
+  - clipkit=2.4.1
+  - seqtk=1.5
+  - iqtree=3.0.1
+  - veryfasttree=4.0.5
+  - taxonkit=0.20.0

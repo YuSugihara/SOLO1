@@ -1,0 +1,7 @@
+NLR	Receptor_name	Test	Date_Stratified	n_Replicates	Experimental_Condition_1	n_1	median_1	Experimental_Condition_2	n_2	median_2	U_1	n_Pairs	Probability_Superiority_1_over_2	p_value	significance
+XP_002449692.2	SbSOLO1	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	WT	16	0.0	DV	16	6.5	0.0	256	0.0	2.928376530490614e-07	****
+XP_051188689.1	LpSOLO1	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	WT	15	0.0	DV	15	5.0	0.0	225	0.0	8.37358887644818e-07	****
+XP_044964102.1	HvSOLO1	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	WT	16	0.0	DV	16	4.0	0.0	256	0.0	4.208035474363354e-07	****
+XP_020170543.1	AetSOLO1	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	WT	16	0.0	DV	16	1.0	52.5	256	0.205078125	0.0008214040672478565	***
+XP_048547975.1	TuSOLO1a	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	WT	16	0.0	DV	16	4.5	0.0	256	0.0	6.058676941270321e-07	****
+XP_048559952.1	TuSOLO1b	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	2	WT	11	0.0	DV	11	6.0	0.0	121	0.0	2.5224605330959892e-05	****

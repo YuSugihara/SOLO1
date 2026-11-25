@@ -1,0 +1,181 @@
+assembly_accession	species	order	proteome_size	n_nlr
+GCF_000001735.4	Arabidopsis thaliana	Brassicales	48265	426
+GCF_000002425.4	Physcomitrium patens	Funariales	48022	101
+GCF_000002595.2	Chlamydomonas reinhardtii	Chlamydomonadales	19527	0
+GCF_000002775.5	Populus trichocarpa	Malpighiales	51840	623
+GCF_000003195.3	Sorghum bicolor	Poales	39248	510
+GCF_000004075.3	Cucumis sativus	Cucurbitales	30919	83
+GCF_000004255.2	Arabidopsis lyrata subsp. lyrata	Brassicales	39161	288
+GCF_000004515.6	Glycine max	Fabales	74248	705
+GCF_000005505.3	Brachypodium distachyon	Poales	37892	498
+GCF_000090985.2	Micromonas commoda	Mamiellales	10137	0
+GCF_000092065.1	Ostreococcus lucimarinus CCE9901	Mamiellales	7603	0
+GCF_000143415.4	Selaginella moellendorffii	Selaginellales	45247	74
+GCF_000143455.1	Volvox carteri f. nagariensis	Chlamydomonadales	14333	0
+GCF_000147395.1	Oryza glaberrima	Poales	36216	631
+GCF_000147415.1	Chlorella variabilis	Chlorellales	9780	0
+GCF_000150535.2	Carica papaya	Brassicales	26103	90
+GCF_000151265.4	Micromonas pusilla CCMP1545	Mamiellales	10237	0
+GCF_000184155.1	Fragaria vesca subsp. vesca	Rosales	23319	303
+GCF_000188115.5	Solanum lycopersicum	Solanales	37602	244
+GCF_000208745.1	Theobroma cacao	Malvales	30854	461
+GCF_000214015.3	Ostreococcus tauri	Mamiellales	7766	0
+GCF_000226075.1	Solanum tuberosum	Solanales	37960	519
+GCF_000231095.2	Oryza brachyantha	Poales	30090	285
+GCF_000258705.1	Coccomyxa subellipsoidea C-169	NA	9839	0
+GCF_000263155.2	Setaria italica	Poales	35844	675
+GCF_000309985.2	Brassica rapa	Brassicales	60607	329
+GCF_000331145.1	Cicer arietinum	Fabales	35754	242
+GCF_000340665.2	Cajanus cajan	Fabales	41233	450
+GCF_000346465.2	Prunus persica	Rosales	32595	590
+GCF_000346735.1	Prunus mume	Rosales	29705	463
+GCF_000365185.1	Nelumbo nucifera	Proteales	38191	224
+GCF_000375325.1	Capsella rubella	Brassicales	34126	311
+GCF_000390325.2	Nicotiana tomentosiformis	Solanales	50112	463
+GCF_000393655.1	Nicotiana sylvestris	Solanales	48160	546
+GCF_000414095.1	Morus notabilis	Rosales	27648	238
+GCF_000442705.1	Elaeis guineensis	Arecales	43551	233
+GCF_000463585.1	Tarenaya hassleriana	Brassicales	41094	123
+GCF_000471905.2	Amborella trichopoda	Amborellales	31494	108
+GCF_000478725.1	Eutrema salsugineum	Brassicales	33637	142
+GCF_000493195.1	Citrus x clementina	Sapindales	32586	630
+GCF_000495115.2	Populus euphratica	Malpighiales	49660	416
+GCF_000499845.1	Phaseolus vulgaris	Fabales	32720	399
+GCF_000504015.1	Erythranthe guttata	Lamiales	31861	310
+GCF_000512975.1	Sesamum indicum	Lamiales	35410	196
+GCF_000611645.1	Monoraphidium neglectum	Sphaeropleales	16755	0
+GCF_000633955.1	Camelina sativa	Brassicales	107481	614
+GCF_000695525.1	Brassica oleracea var. oleracea	Brassicales	56687	307
+GCF_000715135.1	Nicotiana tabacum	Solanales	84255	780
+GCF_000733215.1	Auxenochlorella protothecoides	Chlorellales	7014	0
+GCF_000741045.1	Vigna radiata var. radiata	Fabales	42284	427
+GCF_000801105.2	Raphanus sativus	Brassicales	65067	419
+GCF_000816755.2	Arachis ipaensis	Fabales	57621	868
+GCF_000817695.3	Arachis duranensis	Fabales	44934	615
+GCF_001263595.1	Phalaenopsis equestris	Asparagales	29894	50
+GCF_001406875.1	Solanum pennellii	Solanales	38023	216
+GCF_001411555.2	Juglans regia	Fagales	45959	482
+GCF_001531365.2	Cynara cardunculus var. scolymus	Asterales	38393	214
+GCF_001540865.1	Ananas comosus	Poales	35775	305
+GCF_001605985.2	Dendrobium catenatum	Asparagales	34389	170
+GCF_001625215.2	Daucus carota subsp. sativus	Apiales	49321	436
+GCF_001633185.2	Quercus lobata	Fagales	53226	2772
+GCF_001659605.2	Manihot esculenta	Malpighiales	49290	658
+GCF_001683475.1	Chenopodium quinoa	Caryophyllales	63173	363
+GCF_001865875.1	Lupinus angustifolius	Fabales	52821	72
+GCF_001876935.1	Asparagus officinalis	Asparagales	36763	67
+GCF_001879085.1	Nicotiana attenuata	Solanales	44491	228
+GCF_001879475.1	Ipomoea nil	Solanales	51054	762
+GCF_001995035.1	Momordica charantia	Cucurbitales	28666	77
+GCF_002114115.1	Malus domestica	Rosales	52036	1171
+GCF_002127325.2	Helianthus annuus	Asterales	75695	685
+GCF_002162155.2	Triticum dicoccoides	Poales	86329	1608
+GCF_002168275.1	Herrania umbratica	Malvales	27748	226
+GCF_002207925.1	Prunus avium	Rosales	35009	633
+GCF_002211085.1	Panicum hallii	Poales	37612	523
+GCF_002220235.1	Bathycoccus prasinos	Mamiellales	7900	0
+GCF_002303985.1	Durio zibethinus	Malvales	63007	753
+GCF_002575655.2	Aegilops tauschii subsp. strangulata	Poales	58655	1054
+GCF_002738345.1	Cucurbita maxima	Cucurbitales	42777	33
+GCF_002738365.1	Cucurbita moschata	Cucurbitales	43715	69
+GCF_002742605.1	Olea europaea var. sylvestris	Lamiales	58334	504
+GCF_002806865.2	Cucurbita pepo subsp. pepo	Cucurbitales	43464	69
+GCF_002870075.4	Lactuca sativa	Asterales	47803	738
+GCF_002878395.1	Capsicum annuum	Solanales	51555	632
+GCF_002906115.3	Quercus suber	Fagales	44993	2149
+GCF_002994745.2	Rosa chinensis	Rosales	48188	2849
+GCF_003073215.2	Triticum urartu	Poales	48561	1018
+GCF_003086295.2	Arachis hypogaea	Fabales	100775	1621
+GCF_003473485.1	Medicago truncatula	Fabales	42683	1164
+GCF_003573695.1	Papaver somniferum	Ranunculales	84179	440
+GCF_003576645.1	Ipomoea triloba	Solanales	42046	810
+GCF_003713205.1	Coffea eugenioides	Gentianales	38150	1020
+GCF_003713225.1	Coffea arabica	Gentianales	67222	1822
+GCF_003935025.1	Abrus precatorius	Fabales	40048	365
+GCF_004118075.2	Vigna unguiculata	Fabales	41082	619
+GCF_004153795.1	Camellia sinensis	Ericales	76698	1209
+GCF_004193775.1	Glycine soja	Fabales	69277	604
+GCF_004353265.1	Vitis riparia	Vitales	39906	1555
+GCF_004379255.2	Salvia splendens	Lamiales	79251	772
+GCF_004785595.1	Juglans microcarpa x Juglans regia	Fagales	43487	272
+GCF_004799145.2	Prosopis alba	Fabales	57572	1039
+GCF_005239225.1	Populus alba	Malpighiales	46966	697
+GCF_005286985.1	Setaria viridis	Poales	39206	717
+GCF_006381635.1	Hibiscus syriacus	Malvales	81925	367
+GCF_007655135.1	Punica granatum	Myrtales	36608	818
+GCF_007990345.1	Gossypium hirsutum	Malvales	111844	1335
+GCF_008641045.1	Pistacia vera	Sapindales	41299	1075
+GCF_008831285.2	Nymphaea colorata	Nymphaeales	34619	317
+GCF_009389715.1	Phoenix dactylifera	Arecales	48801	325
+GCF_009727055.1	Benincasa hispida	Cucurbitales	33043	140
+GCF_009730915.1	Dioscorea cayenensis subsp. rotundata	Dioscoreales	33298	485
+GCF_009805555.1	Andrographis paniculata	Lamiales	39992	257
+GCF_010389155.1	Erigeron canadensis	Asterales	34584	361
+GCF_011075055.1	Mangifera indica	Sapindales	52078	1919
+GCF_012489685.1	Lotus japonicus	Fabales	44420	538
+GCF_013358625.1	Macadamia integrifolia	Proteales	46649	1013
+GCF_013401445.1	Tripterygium wilfordii	Celastrales	48101	218
+GCF_014633365.1	Diospyros lotus	Ericales	41937	394
+GCF_014773155.1	Arachis stenosperma	Fabales	45936	857
+GCF_014843425.1	Jatropha curcas	Malpighiales	29586	206
+GCF_016545825.1	Eucalyptus grandis	Myrtales	45101	2071
+GCF_016808095.1	Vigna angularis	Fabales	43641	433
+GCF_016808335.1	Panicum virgatum	Poales	84836	1196
+GCF_018294505.1	Triticum aestivum	Poales	142442	2997
+GCF_018446385.1	Zingiber officinale	Zingiberales	101860	723
+GCF_018687715.1	Carya illinoinensis	Fagales	54484	1372
+GCF_018835915.1	Vigna umbellata	Fabales	36237	212
+GCF_018873765.1	Telopea speciosissima	Proteales	39350	307
+GCF_019175385.1	Lycium barbarum	Solanales	52159	596
+GCF_019186545.1	Solanum stenotomum	Solanales	39771	581
+GCF_019202715.1	Actinidia eriantha	Ericales	55894	442
+GCF_019359855.1	Lolium perenne	Poales	54169	575
+GCF_019419815.1	Pyrus x bretschneideri	Rosales	51345	1375
+GCF_019578655.1	Ricinus communis	Malpighiales	33187	198
+GCF_020283565.1	Trifolium pratense	Fabales	47931	804
+GCF_020379485.1	Brassica napus	Brassicales	120350	584
+GCF_020520425.1	Spinacia oleracea	Caryophyllales	40777	263
+GCF_020921035.1	Rhodamnia argentea	Myrtales	38931	654
+GCF_021117445.2	Syzygium oleosum	Myrtales	40707	1163
+GCF_022201045.2	Citrus sinensis	Sapindales	40427	1365
+GCF_022539505.1	Lolium rigidum	Poales	54112	640
+GCF_023119035.1	Salvia hispanica	Lamiales	46508	1160
+GCF_024323335.1	Pisum sativum	Fabales	51089	376
+GCF_025177605.1	Cucumis melo	Cucurbitales	35817	111
+GCF_025698485.1	Gossypium arboreum	Malvales	49176	587
+GCF_025698545.1	Gossypium raimondii	Malvales	50451	648
+GCF_026212465.1	Amaranthus tricolor	Caryophyllales	36036	231
+GCF_026745355.1	Beta vulgaris subsp. vulgaris	Caryophyllales	36388	290
+GCF_028751815.1	Salvia miltiorrhiza	Lamiales	49187	1206
+GCF_029017545.1	Prosopis cineraria	Fabales	50190	1163
+GCF_029168945.1	Cannabis sativa	Rosales	39959	361
+GCF_029784015.1	Lycium ferocissimum	Solanales	44311	320
+GCF_029867415.1	Vicia villosa	Fabales	67148	891
+GCF_029873635.1	Malania oleifera	Santalales	36577	172
+GCF_029962835.1	Magnolia sinica	Magnoliales	48288	983
+GCF_030052815.1	Hevea brasiliensis	Malpighiales	58025	1409
+GCF_030253575.1	Rhododendron vialii	Ericales	49606	772
+GCF_030272615.1	Cryptomeria japonica	Cupressales	60829	1651
+GCF_030704535.1	Vitis vinifera	Vitales	40633	1614
+GCF_030987335.1	Cornus florida	Cornales	48131	1032
+GCF_031755915.1	Ziziphus jujuba	Rosales	41232	1428
+GCF_033153095.1	Gastrolobium bilobum	Fabales	40352	243
+GCF_034140825.1	Oryza sativa Japonica Group	Poales	42933	716
+GCF_036884655.1	Musa acuminata AAA Group	Zingiberales	152226	421
+GCF_900185275.1	Solanum verrucosum	Solanales	33690	271
+GCF_901000735.1	Corylus avellana	Fagales	36029	618
+GCF_902167145.1	Zea mays	Poales	57578	312
+GCF_902201215.1	Prunus dulcis	Rosales	33326	426
+GCF_904849725.1	Hordeum vulgare subsp. vulgare	Poales	40284	515
+GCF_907164915.1	Impatiens glandulifera	Ericales	36777	172
+GCF_916048215.2	Malus sylvestris	Rosales	59561	1617
+GCF_932294415.1	Quercus robur	Fagales	53760	4155
+GCF_933775445.1	Argentina anserina	Rosales	25318	248
+GCF_937616625.2	Mercurialis annua	Malpighiales	33382	223
+GCF_947179165.1	Solanum dulcamara	Solanales	36107	301
+GCF_951802175.1	Populus nigra	Malpighiales	44423	472
+GCF_958298935.1	Phragmites australis	Poales	55965	564
+GCF_958449725.1	Rosa rugosa	Rosales	42829	1800
+GCF_958979055.1	Alnus glutinosa	Fagales	35115	623
+GCF_963169125.1	Humulus lupulus	Rosales	47669	680
+GCF_963576675.1	Euphorbia lathyris	Malpighiales	35425	455

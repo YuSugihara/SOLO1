@@ -1,0 +1,5 @@
+NLR	Test	Date_Stratified	n_Replicates	Experimental_Condition_1	n_1	median_1	Experimental_Condition_2	n_2	median_2	U_1	n_Pairs	Probability_Superiority_1_over_2	p_value	significance
+Pikm-1_Enh + Pikm-2	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	GFP	13	6.0	PWL2	13	0.0	169.0	169	1.0	2.2995133698638845e-06	****
+Pikm-1_HIPP43 + Pikp-2	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	GFP	13	0.0	PWL2	13	6.0	0.0	169	0.0	3.3914566193236144e-06	****
+SOLO1_Enh	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	GFP	13	6.0	PWL2	13	0.0	169.0	169	1.0	7.718995050152783e-06	****
+SOLO1_HIPP43	two-sided Mann-Whitney U (asymptotic, tie-corrected)	False	3	GFP	13	0.0	PWL2	13	5.0	0.0	169	0.0	5.046158995404648e-06	****
