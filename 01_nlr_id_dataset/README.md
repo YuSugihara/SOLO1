@@ -2,8 +2,8 @@
 
 This workflow collects coiled-coil NLRs carrying candidate integrated domains
 (IDs) from the NLRs annotated with NLRtracker across 180 RefSeq reference plant
-proteomes and removes candidates whose additional domains are annotation
-artifacts.
+proteomes and excludes candidates carrying transposon-annotated domains or
+additional domains restricted to the LRR region.
 The proteomes are the RefSeq annotations held at NCBI; the NLRtracker annotations
 were produced and deposited by
 [Toghani and Kamoun (2024)](https://doi.org/10.5281/zenodo.13627395).
@@ -79,20 +79,19 @@ python3 01_nlr_id_dataset/scripts/1.1_extract_nlr_id_candidates.py \
   NLR and candidate counts per assembly; 180 rows. 87 assemblies contribute at
   least one candidate.
 
-## Step 1.2: Remove annotation artifacts
+## Step 1.2: Exclude transposon-annotated and LRR-internal candidates
 
 ### Purpose
 
-Two classes of candidates are removed:
+Exclude two classes of candidates:
 
-- **Transposon.** The protein carries a domain annotated as `TRANSPOSON`.
-- **LRR-internal.** All additional domains of the protein fall exclusively
-  within the annotated LRR region (between the start of the first and the end
-  of the last LRR).
+- **Transposon.** Proteins carrying a domain annotated as `TRANSPOSON`.
+- **LRR-internal.** Proteins whose additional domains fall exclusively within
+  the annotated LRR region (from the start of the first LRR to the end of the
+  last).
 
-A protein is retained when it carries at least one extra domain outside the LRR
-region and no `TRANSPOSON` domain. The report records each candidate once,
-together with its filter decision, LRR span, and extra-domain coordinates.
+All remaining candidates are retained, and the filter report records each
+candidate once with its decision, LRR span, and additional-domain coordinates.
 
 ### Script and command
 

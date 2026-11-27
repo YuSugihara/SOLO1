@@ -21,6 +21,12 @@ ligand-specific immunity and antiviral resistance.
 
 > **Interactive 3D Atlas:** Explore the 296 ranked NLR-ID candidates (plus the NbNRC2a benchmark), their AlphaFold 3 hexamer models and PAE matrices, the NB-ARC phylogeny, and cell-death screening results directly in the browser at **[SOLO1 Structural Screening Atlas](https://yusugihara.github.io/SOLO1-atlas/)**.
 
+<p align="center">
+  <a href="https://yusugihara.github.io/SOLO1-atlas/">
+    <img src="https://raw.githubusercontent.com/YuSugihara/SOLO1-atlas/main/assets/demo.gif" alt="SOLO1 Structural Screening Atlas interactive demo" width="100%">
+  </a>
+</p>
+
 ## Repository layout
 
 Each directory is a self-contained analysis with its own `README.md`,
@@ -31,7 +37,7 @@ root of the repository.
 | Directory | Analysis | Figures and tables |
 | --- | --- | --- |
 | [`01_nlr_id_dataset`](01_nlr_id_dataset) | Extract and filter CC-NLRs carrying candidate integrated domains from 180 annotated plant proteomes | Fig. 1A |
-| [`02_af3_modeling`](02_af3_modeling) | Prepare non-redundant N-terminus-to-NB-ARC regions and AlphaFold 3 Server hexamer jobs | Fig. 1A |
+| [`02_af3_modeling`](02_af3_modeling) | Prepare non-redundant N-terminus-to-NB-ARC regions and [AlphaFold Server](https://alphafoldserver.com) hexamer jobs | Fig. 1A |
 | [`03_structural_metrics`](03_structural_metrics) | Score predicted hexamers on six structural metrics using [`SolNRCH_foldome`](https://github.com/amiralito/SolNRCH_foldome) | Table S1 |
 | [`04_ranking`](04_ranking) | Rank candidates by composite structural score and generate ranking, PAE, and structure panels | Fig. 1B, Fig. 1C, Table S1 |
 | [`05_candidate_nbarc_tree`](05_candidate_nbarc_tree) | Infer the NB-ARC phylogeny of the 296 modeled candidates and plot structural metric and screening tracks | Fig. 2A, Fig. 2B, Fig. S2 |
@@ -56,8 +62,8 @@ as requiring an external download:
 
 All command-line analyses run in the conda environment defined by
 [`environment.yml`](environment.yml), except for AlphaFold 3 structure
-prediction (`02_af3_modeling`, AlphaFold Server) and structural metric
-scoring (`03_structural_metrics`, `SolNRCH_foldome`):
+prediction (`02_af3_modeling`, [AlphaFold Server](https://alphafoldserver.com))
+and structural metric scoring (`03_structural_metrics`, `SolNRCH_foldome`):
 
 ```bash
 conda env create -f environment.yml

@@ -17,7 +17,8 @@ homohexamer in triplicate from its N terminus to the end of its NB-ARC domain.
 
 Extract the region from the N terminus to the end of the NB-ARC domain for
 AlphaFold 3 modeling. Sequences containing an ambiguous residue (X) within that
-region are excluded because the AlphaFold Server rejects them. Each identifier
+region are excluded because the [AlphaFold Server](https://alphafoldserver.com)
+rejects them. Each identifier
 is formatted as `<accession>_6x<protein>_1-<end>`, with dots replaced by
 underscores, where `6x` indicates hexameric submission.
 
@@ -116,7 +117,8 @@ python3 02_af3_modeling/scripts/2.4_generate_af3_jobs.py \
 
 ## Step 2.5: Submit the jobs
 
-The job files were submitted to the AlphaFold Server three times, yielding three
+The job files were submitted to the
+[AlphaFold Server](https://alphafoldserver.com) three times, yielding three
 independent predictions per receptor: 888 candidate predictions plus 3 for the
 NbNRC2a benchmark submitted separately under identical conditions (891
 predictions in total). The job requests returned by the server, which record the
